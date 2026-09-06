@@ -17,10 +17,3 @@
 
 </div>
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4nt14g0-3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
