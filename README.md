@@ -10,9 +10,9 @@
 
 Soy un apasionado de la arquitectura de software y la lógica de sistemas, siempre en busca de optimizar procesos. Actualmente, me encuentro explorando diversos lenguajes de programación, desde sistemas backend robustos hasta proyectos interactivos, con un enfoque constante en escribir código limpio y eficaz.
 
-- 🏢 Working at **** in **Colombia**
-- 🌱 Currently learning **Explorando nuevas técnicas en inteligencia artificial y frameworks modernos de desarrollo web.**
-- 💬 Ask me about **Optimización de procesos, programación en Python y análisis de datos.**
+**Colombia 🇨🇴**
+- 🌱 Actualmente **Aprendiendo y explorando nuevas técnicas en inteligencia artificial y frameworks modernos de desarrollo web.**
+- 💬 Domino parcialmente**Optimización de procesos, programación en Python y análisis de datos.**
 - ⚡ Siempre estoy buscando la manera de combinar mis habilidades en programación con mi pasión por la música, creando pequeñas aplicaciones para artistas.
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
